@@ -544,7 +544,7 @@ footer span{
     grid-gap: 20px;
     max-width: 1180px;
     width: 90%;
-    margin: 20px auto -30px auto;
+    margin: 20px auto 30px auto;
 }
 
 .edu-grid,
@@ -578,6 +578,11 @@ footer span{
     font-weight: 400;
     letter-spacing: 0.4px;
     font-size: 0.9rem;
+}
+
+
+.test-container{
+    margin-top: 20px;
 }
 
 
@@ -658,8 +663,9 @@ footer span{
     border-radius: 30px;
     display: flex;
     overflow: hidden;
-    height: 300px;
-    width: 100%;
+    height: 200px;
+    width: 350px;
+    margin: auto;
 }
 
 .profile-box-img img{
